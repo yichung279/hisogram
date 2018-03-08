@@ -1,2 +1,2 @@
-# hisogram
+# histogram
 my homework ^.<
