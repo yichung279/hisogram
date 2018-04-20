@@ -1,2 +1,4 @@
 *.jpg
-*.png
+frequency*
+spatial*
+.DS_Store
